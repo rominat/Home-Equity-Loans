@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddcd0d53-29a2-45d5-9cb9-77acd5ccc03b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Example/.idea/libraries/SBT__org_scala_lang_modules_scala_parser_combinators_2_12_1_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/.idea/libraries/SBT__org_scala_lang_modules_scala_xml_2_12_1_0_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/.idea/libraries/SBT__org_scala_lang_scala_library_2_12_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_12_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/.idea/libraries/SBT__org_scalactic_scalactic_2_12_3_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/.idea/libraries/SBT__org_scalatest_scalatest_2_12_3_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/.idea/modules/example-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/.idea/modules/example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/plugins.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/config-classes/$5b0b273238fd2e417ecd$$anonfun$$sbtdef$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/config-classes/$5b0b273238fd2e417ecd$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/config-classes/$5b0b273238fd2e417ecd.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/config-classes/$5b0b273238fd2e417ecd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/config-classes/$67ff56f069c5c18207f9$$anonfun$$sbtdef$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/config-classes/$67ff56f069c5c18207f9$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/config-classes/$67ff56f069c5c18207f9.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/config-classes/$67ff56f069c5c18207f9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/config-classes/$a61b69436d5cfd555f79$$anonfun$$sbtdef$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/config-classes/$a61b69436d5cfd555f79$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/config-classes/$a61b69436d5cfd555f79.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/config-classes/$a61b69436d5cfd555f79.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/config-classes/$acce5f44ad0a9d9e5d15$$anonfun$$sbtdef$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/config-classes/$acce5f44ad0a9d9e5d15$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/config-classes/$acce5f44ad0a9d9e5d15.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/config-classes/$acce5f44ad0a9d9e5d15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/config-classes/$e975576db0589eab9ee7$$anonfun$$sbtdef$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/config-classes/$e975576db0589eab9ee7$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/config-classes/$e975576db0589eab9ee7.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/config-classes/$e975576db0589eab9ee7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/config-classes/$f16595a148cb48af5b6a$$anonfun$$sbtdef$1$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/config-classes/$f16595a148cb48af5b6a$$anonfun$$sbtdef$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/config-classes/$f16595a148cb48af5b6a$$anonfun$$sbtdef$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/config-classes/$f16595a148cb48af5b6a$$anonfun$$sbtdef$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/config-classes/$f16595a148cb48af5b6a$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/config-classes/$f16595a148cb48af5b6a.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/config-classes/$f16595a148cb48af5b6a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/scala-2.10/sbt-0.13/resolution-cache/default/example-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/scala-2.10/sbt-0.13/resolution-cache/default/example-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-example-build-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-example-build-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-example-build-docs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-example-build-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-example-build-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-example-build-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-example-build-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-example-build-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-example-build-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-example-build-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-example-build-sources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-example-build-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-example-build-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/ivy-report.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/ivy-report.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/$global/$global/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/$global/ivySbt/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/compile/compile/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/project/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/src/main/scala/HelloWorld.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/src/main/scala/example/Example.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/classes/HelloWorld.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/classes/example/Example$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/classes/example/Example$delayedInit$body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/classes/example/Example.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/default/example$sources_2.12/0.1/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/default/example$sources_2.12/0.1/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/default/example_2.12/0.1/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/default/example_2.12/0.1/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/default-example$sources_2.12-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/default-example$sources_2.12-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/default-example$sources_2.12-docs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/default-example$sources_2.12-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/default-example$sources_2.12-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/default-example$sources_2.12-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/default-example$sources_2.12-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/default-example$sources_2.12-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/default-example$sources_2.12-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/default-example$sources_2.12-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/default-example$sources_2.12-sources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/default-example$sources_2.12-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/default-example$sources_2.12-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/default-example_2.12-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/default-example_2.12-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/default-example_2.12-docs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/default-example_2.12-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/default-example_2.12-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/default-example_2.12-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/default-example_2.12-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/default-example_2.12-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/default-example_2.12-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/default-example_2.12-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/default-example_2.12-sources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/default-example_2.12-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/default-example_2.12-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/ivy-report.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/scala-2.12/resolution-cache/reports/ivy-report.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/streams/$global/ivySbt/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/streams/test/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/target/streams/test/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hmeq.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondProject/.idea/hydra.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portafolio-project" beforeDir="false" afterPath="$PROJECT_DIR$/../portafolio-project" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1291883985">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="sbt" value="1" />
+          <entry key="scala" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Scala" value="2" />
+          <entry key="sbt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="sbt" value="2" />
+          <entry key="scala" value="72" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Scala" value="72" />
+          <entry key="sbt" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/homeequityloan/radom/forest/model/RandomForestHomeLoan.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="50" lean-forward="true" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+              <folding>
+                <element signature="e#47#86#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.12/srcs/spark-sql_2.12-2.4.1-sources.jar!/org/apache/spark/sql/execution/datasources/DataSource.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="496">
+              <caret line="557" selection-start-line="557" selection-end-line="557" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/homeequityloan/radom/forest/model/RandomForestHomeLoan.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="252" />
+    <option name="y" value="23" />
+    <option name="width" value="1188" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Initialization issuesJava</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level issuesJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaFX</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Pattern Validation</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>General</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HomeEquityLoanProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeEquityLoanProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeEquityLoanProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeEquityLoanProject" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeEquityLoanProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeEquityLoanProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeEquityLoanProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeEquityLoanProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeEquityLoanProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeEquityLoanProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeEquityLoanProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeEquityLoanProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeEquityLoanProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeEquityLoanProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="RandomForestHomeLoan" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.homeequityloan.radom.forest.model.RandomForestHomeLoan" />
+      <module name="HomeEquityLoanProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RandomForestHomeLoan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="HomeEquityLoanProject" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="homeequityloanproject [file:/Users/romina/IdeaProjects/HomeEquityLoanProject/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="homeequityloanproject-build [file:/Users/romina/IdeaProjects/HomeEquityLoanProject/]" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="965917486" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2567920773" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddcd0d53-29a2-45d5-9cb9-77acd5ccc03b" name="Default Changelist" comment="" />
+      <created>1559583704846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559583704846</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="252" y="23" width="1188" height="877" extended-state="0" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18411867" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.3299363" />
+      <window_info anchor="bottom" id="Messages" weight="0.3299363" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" x="0" y="0" width="172" height="677" id="Documentation" side_tool="true" visible="true" weight="0.046247818" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="sbt" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.12/srcs/spark-sql_2.12-2.4.1-sources.jar!/org/apache/spark/sql/execution/datasources/DataSource.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="557" selection-start-line="557" selection-end-line="557" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/homeequityloan/radom/forest/model/RandomForestHomeLoan.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="50" lean-forward="true" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+          <folding>
+            <element signature="e#47#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>HomeEquityLoanProject</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
