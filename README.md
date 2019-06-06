@@ -1,6 +1,6 @@
 # Home Equity Loans
 
-Foobar is a Python library for dealing with word pluralization.
+
 
 ## About the dataset:
 ◾ BAD: 1 = applicant defaulted on loan or is delinquent; 0 = applicant paid loan
@@ -28,3 +28,6 @@ Foobar is a Python library for dealing with word pluralization.
 ◾ CLNO: Number of credit lines
 
 ◾ DEBTINC: Debt-to-income ratio
+
+## Dataset source:
+http://www.creditriskanalytics.net/datasets-private.html
