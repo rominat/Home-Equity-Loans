@@ -1,6 +1,8 @@
-# Home Equity Loans
+# Home Equity Loans Default Prediction
 Home Equity Loans use the home equity as collateral for the lender.
-The dataset is comprised of 5,960 home equity loans. 
+
+- Use of Spark API in Scala and MLlib to predict applicants that would default on their loans
+- Supervised dataset is comprised of 5,960 home equity loans. 
 
 ## About the dataset:
 ◾ BAD: 1 = applicant defaulted on loan or is delinquent; 0 = applicant paid loan
@@ -33,7 +35,7 @@ The dataset is comprised of 5,960 home equity loans.
 http://www.creditriskanalytics.net/datasets-private.html
 
 ## Tasks:
-◾ Initialize Spark Session
+◾ Initialization of Spark Session
 
 ◾ Load csv file as dataframe and rename attributes
 
